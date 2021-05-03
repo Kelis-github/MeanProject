@@ -19,7 +19,7 @@ public class MeanClass {
 	     System.out.println("Sample size,n="+n);  
 	     System.out.println("Sum of Observation="+sum);  
 	     System.out.println("MEAN="+sum/n);  
-	     System.out.println("Tring to Push and Commit to GitHub");
+	     System.out.println("Commit and Push tasks performed well");
 	}
 
 }
